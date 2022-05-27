@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+This site showcases data science projects that display my mathematical and technical abilities. 
 
-You can use the [editor on GitHub](https://github.com/JackJosephWright/proj_review.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Technology
+* Python
+* R
+* ML software (scikit learn and tidymodels among others)
+* web development
+* SQL
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mathematics/ML
+* statistical infrence, specifically for exploratory data analysis
+* calculus
+* linear algebra
+* upervised and unsupervised learning algorithms
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Narrative Tree Complexity Metric
 
-```markdown
-Syntax highlighted code block
+I worked with a Psychology research group at the CUNY Grad Center to create a Complexity Metric for research on Interactive Digital Narrative. I used experts in the field to compare pairs of narrative trees, which were then used to create a heirarchy of tree complexities. This expert opinion was then modeled using supervised and unsupervised learning to create a model to assign a Narrative Tree Complexity Metric to new data. I will be a co-author on this paper and continue to work with the group on narrative tree research moving forward. 
 
-# Header 1
-## Header 2
-### Header 3
+* For more details see [read the paper](https://rpubs.com/JackJWright/902090)
+* [watch the presentation](https://vimeo.com/manage/videos/706364815/0112a4ac2b)
+* [visit the data collection website](https://ctree-postgres.herokuapp.com/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# Linear Regression Tool
 
-**Bold** and _Italic_ and `Code` text
+I created a shiny app that allows users to upload their own data set and visually walk through the steps of creating and analyzing multiple and logistic regression. 
 
-[Link](url) and ![Image](src)
-```
+* Visit the [linear regression tool](https://jwrightzz123.shinyapps.io/regression_decision_tree/)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# Predicting NFL Quarterback Performance with Markov Chains
 
-### Jekyll Themes
+I created a simulation that predicts the career performance (measured by expected points added) for a quarterback using markov chain transitions. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JackJosephWright/proj_review.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* View the report [here]()
