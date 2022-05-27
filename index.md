@@ -33,4 +33,4 @@ I created a shiny app that allows users to upload their own data set and visuall
 
 I created a simulation that predicts the career performance (measured by expected points added) for a quarterback using markov chain transitions. 
 
-* View the report [here]()
+* View the report [here](https://jackjosephwright.github.io/qb_markov.github.io/)
