@@ -39,5 +39,5 @@ I created a simulation that predicts the career performance (measured by expecte
 
 I worked with a team to generate revenue predictions for the Google Gstore. In additon to the modeling, this project highlights my technical writing. 
 
-* read the Gstore paper [here](gstore.html)
+read the Gstore paper [here](gstore.html)
 
