@@ -41,3 +41,10 @@ I worked with a team to generate revenue predictions for the Google Gstore. In a
 
 read the Gstore paper [here](gstore.html)
 
+
+# Downsampling Audio (Electrical and Signal Engineering)
+
+I am working with a friend to create a virtual instrument from thousands of audio recordings he collected from his Hammond B-3 organ. This is a report on a method I came up with to standardize the number of samples per second of the audio clips in order to remove a phasing issue we were having when the sounds were played together. This highlights my background and experience in electrical engineering and signal analysis
+
+Read the report [here](https://colab.research.google.com/drive/1neNd_mLNR8YD1fWQYkFfFXHmzvEbHQxm?usp=sharing)
+
